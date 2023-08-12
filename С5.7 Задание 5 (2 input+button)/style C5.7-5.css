@@ -1,0 +1,29 @@
+.inpNum {
+    width: 250px;
+    height: 25px;
+    padding-left: 20px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 2px solid #343435;
+}
+
+button {
+    cursor: pointer;
+    width: 220px;
+    font-size: 18px;
+    background: #67fb01;
+    color: #fff;
+    border: 0.2rem solid #0003ff;
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 40px;
+    border-radius: 3px;
+    position: relative;
+
+}
+
+button:hover {
+    color: #0003ff;
+
+}
